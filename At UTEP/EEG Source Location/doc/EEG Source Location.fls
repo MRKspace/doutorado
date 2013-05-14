@@ -1,0 +1,29 @@
+PWD /Users/ema/Documents/PhD/EEG Source Location/doc
+INPUT /usr/local/texlive/2012/texmf.cnf
+INPUT /usr/local/texlive/2012/texmf/web2c/texmf.cnf
+INPUT /usr/local/texlive/2012/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT EEG Source Location.tex
+OUTPUT EEG Source Location.log
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2012/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT EEG Source Location.aux
+INPUT EEG Source Location.aux
+OUTPUT EEG Source Location.aux
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT EEG Source Location.bbl
+INPUT EEG Source Location.bbl
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
+OUTPUT EEG Source Location.pdf
+INPUT /usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT EEG Source Location.aux
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb

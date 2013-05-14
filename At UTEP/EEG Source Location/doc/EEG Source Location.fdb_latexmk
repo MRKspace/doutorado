@@ -1,0 +1,33 @@
+# Fdb version 3
+["bibtex EEG Source Location"] 1366244461 "EEG Source Location.aux" "EEG Source Location.bbl" "EEG Source Location" 1366244462
+  "/usr/local/texlive/2012/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "EEG Source Location.aux" 1366244461 291 5b392fc5923b27019fcc48dfe2ab14a7 ""
+  "EEG Source Location.bcf" 0 -1 0 ""
+  "EEG_Source_Location.bib" 1366242606 242 0466933ea28cfd0da722eeef3363b7f8 ""
+  (generated)
+  "EEG Source Location.blg"
+  "EEG Source Location.bbl"
+["pdflatex"] 1366244461 "EEG Source Location.tex" "EEG Source Location.pdf" "EEG Source Location" 1366244462
+  "/usr/local/texlive/2012/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls" 1254151887 20571 b8bd218bf2e18b4f5817ee643cd9c515 ""
+  "/usr/local/texlive/2012/texmf-dist/tex/latex/base/size11.clo" 1254151887 9058 640f9c40a6d912e30839a669c8a999ec ""
+  "/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1341108684 846150 32f09260c10acd3a5389b805e291b540 ""
+  "/usr/local/texlive/2012/texmf-var/web2c/pdftex/pdflatex.fmt" 1341108725 3691572 80746d7cec090b0770bc87079bef471d ""
+  "/usr/local/texlive/2012/texmf.cnf" 1341108668 572 7ea7194897937febeb63145e1c3a1f03 ""
+  "/usr/local/texlive/2012/texmf/web2c/texmf.cnf" 1336865692 31299 729e216d9b945005c0d4b079c0500bc9 ""
+  "EEG Source Location.aux" 1366244461 291 5b392fc5923b27019fcc48dfe2ab14a7 ""
+  "EEG Source Location.bbl" 1366244461 177 149c6fc78445bca2871c955a0357fc00 "bibtex EEG Source Location"
+  "EEG Source Location.tex" 1366244460 456 6e7715964426d1e06a89ca7e3fb8df56 ""
+  (generated)
+  "EEG Source Location.pdf"
+  "EEG Source Location.aux"
+  "EEG Source Location.log"
